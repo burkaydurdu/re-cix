@@ -1,0 +1,19 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main h1 {
+  text-align: center;
+}
+.main button {
+  padding: 10px;
+  margin: 10px;
+}
+.cee {
+  color: purple;
+}
+.coo {
+  color: red;
+}
