@@ -1,4 +1,5 @@
 # re-cix
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0a9b06cb-c93e-4de2-8559-c0c36a61f5cb/deploy-status)](https://app.netlify.com/sites/condescending-clarke-a90e99/deploys)
 
 ### Running the App
 
